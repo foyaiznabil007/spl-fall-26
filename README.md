@@ -5,13 +5,13 @@ Welcome to my programming practice repository!
 
 ## Student Information
 
-- **Name:**
-- **Student ID:**
-- **Section:**
+- **Name: MD.Muhtasim Foyaiz**
+- **Student ID: 0112620126**
+- **Section: F**
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
-- **Trimester:**
-- **Instructor:**
+- **Trimester: 263**
+- **Instructor: Hamudi Hasan Sonet**
 
 ## About This Repository
 
